@@ -1,0 +1,6 @@
+[07-Oct-2018 02:28:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/viyabiz/public_html/hnshotels/adminOld/view_cart.php on line 21
+[07-Oct-2018 02:28:23 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/viyabiz/public_html/hnshotels/adminOld/view_cart.php on line 21
+[07-Oct-2018 02:28:27 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/viyabiz/public_html/hnshotels/adminOld/view_cart.php on line 21
+[07-Oct-2018 02:28:30 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/viyabiz/public_html/hnshotels/adminOld/view_cart.php on line 21
+[07-Oct-2018 02:28:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/viyabiz/public_html/hnshotels/adminOld/view_cart.php on line 21
+[07-Oct-2018 02:29:52 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/viyabiz/public_html/hnshotels/adminOld/view_cart.php on line 21
