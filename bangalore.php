@@ -48,12 +48,12 @@ include('config.inc.php');
 					<div class="choice_list"> 
 					
 					<ul id="list_bars" data-role="listview" data-inset="true" data-filter="true" >
-						<li><a href="choose_category.php?str_no=5" data-transition="slidedown"> <img src="beer_bottle.png"/> <h5>Zaica - Brookefield</h5></a></li>
-						<li><a href="choose_category.php?str_no=6" data-transition="slidedown"> <img src="beer_bottle.png"/> <h5>Zaica - Indira Nagar</h5></a></li>
-						<li><a href="choose_category.php?str_no=7" data-transition="slidedown"> <img src="beer_bottle.png"/> <h5>Zaica - Nagawara</h5></a></li>
+						<li><a href="choose_category.php?str_no=4" data-transition="slidedown"> <img src="beer_bottle.png"/> <h5>Zaica - Brookefield</h5></a></li>
+						<li><a href="choose_category.php?str_no=4" data-transition="slidedown"> <img src="beer_bottle.png"/> <h5>Zaica - Indira Nagar</h5></a></li>
+						<li><a href="choose_category.php?str_no=4" data-transition="slidedown"> <img src="beer_bottle.png"/> <h5>Zaica - Nagawara</h5></a></li>
 						<!--<li><a href="choose_category.php?str_no=2" data-transition="slidedown"> <img src="beer_bottle2.png?v=1.1"/> <h5>Pathankot - Manyata</h5></a></li>
 						<li><a href="choose_category.php?str_no=8" data-transition="slidedown"> <img src="beer_bottle2.png?v=1.1"/> <h5>Pathankot - Ecospace</h5></a></li>-->
-                        <li><a href="choose_category.php?str_no=9" data-transition="slidedown"> <img src="beer_bottle3.png?v=1.0"/> <h5>Chef's Gallery - Ecospace</h5></a></li>
+                        <li><a href="choose_category.php?str_no=4" data-transition="slidedown"> <img src="beer_bottle3.png?v=1.0"/> <h5>Chef's Gallery - Ecospace</h5></a></li>
                         <li><a href="choose_category.php?str_no=4" data-transition="slidedown"> <img src="beer_bottle3.png?v=1.0"/> <h5>Chef's Gallery - EGL</h5></a></li>
 					</ul>	    
 					
