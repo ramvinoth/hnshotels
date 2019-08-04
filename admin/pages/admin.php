@@ -4,6 +4,7 @@
 	include_once("../../config.inc.php");
 	@session_start();
 	@ob_end_flush();
+	$_SESSION['str_no'] = 1;
 	if(!isset($_SESSION['str_no']))
 	{
 		@header("Location: index.php");
